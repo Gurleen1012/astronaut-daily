@@ -1,1 +1,2 @@
-# 20-project
+# C20_boilerplate
+boilerplate for teacher activity
